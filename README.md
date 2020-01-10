@@ -1,4 +1,4 @@
-# Quiz for Week 1 of Data Analytics Specialization: Python for Data Analysts
+# Quiz: Python for Data Analysts
 
 A graded assignment quiz for Algoritma's Data Analytics Specialization:<br>
 https://github.com/onlyphantom/dataanalysis
