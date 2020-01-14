@@ -22,6 +22,6 @@
     - [ ] 3,737,700
     
 5. If we want to perform subsetting on `clients` by explicitly stating the `ID`, which subsetting method is more appropriate?
-    - [ ] `clients.loc[57531, ]`
-    - [ ] `clients.iloc[57531, ]`
-    - [ ] `clients[57531, ]` 
+    - [ ] `clients.loc[57531, : ]`
+    - [ ] `clients.iloc[57531, : ]`
+    - [ ] `clients[57531, : ]` 
