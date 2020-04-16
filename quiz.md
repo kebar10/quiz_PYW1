@@ -3,18 +3,15 @@
     - [ ] 19,238,903
     - [ ]  7,768,903
 
-
 2. Which company has the biggest `Total Sales` in 2017?
     - [ ] New Media Group
     - [ ] PT. Algoritma Data Indonesia
-    - [ ] Palembang Konsultansi
-    
+    - [ ] Palembang Konsultansi 
 
 3. Which are the two companies that has sales exceeding 1,500,000 IDR in the sampled data frame?
     - [ ] Palembang Konsultansi & PT. Surya Citra Manajemen
     - [ ] PT. Surya Citra Manajemen & New Media Group
     - [ ] Palembang Konsultansi & New Media Group
-    
     
 4. The simplest way to ignore the outliers of sample data and find its central value is by using median instead of mean. By ignoring the outliers of `Total Sales`, what is its central value?
     - [ ] 1,354,250
