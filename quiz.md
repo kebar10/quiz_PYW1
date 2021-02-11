@@ -24,7 +24,7 @@
     - [ ] `clients[57531, : ]` 
 
 6. Say, we need to find clients of Enterprise account which specifically located in Jakarta. Try to fill in the blank codes to perform the right conditional subsetting:  `clients[________ _ ________]`:
-    - [ ] (clients.Location == "Jakarta"), |, (clients.Account == "Enterprise")
-    - [ ] clients.Location == "Jakarta", &, clients.Account == "Enterprise"
-    - [ ] (clients.Location == "Jakarta"), &, (clients.Account == "Enterprise")
-    - [ ] clients.Location == "Jakarta", |, clients.Account == "Enterprise"
+    - [ ] (clients.Location == "Jakarta") | (clients.Account == "Enterprise")
+    - [ ] clients.Location == "Jakarta" & clients.Account == "Enterprise"
+    - [ ] (clients.Location == "Jakarta") & (clients.Account == "Enterprise")
+    - [ ] clients.Location == "Jakarta" | clients.Account == "Enterprise"
